@@ -1,0 +1,13 @@
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\bin\Debug\Rebuild.exe.config
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\bin\Debug\Rebuild.exe
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\bin\Debug\Rebuild.pdb
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\obj\Debug\Rebuild.csproj.AssemblyReference.cache
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\obj\Debug\Rebuild.csproj.SuggestedBindingRedirects.cache
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\obj\Debug\Rebuild.Form1.resources
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\obj\Debug\Rebuild.Properties.Resources.resources
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\obj\Debug\Rebuild.csproj.GenerateResource.cache
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\obj\Debug\Rebuild.csproj.CoreCompileInputs.cache
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\obj\Debug\Rebuild.exe
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\obj\Debug\Rebuild.pdb
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\obj\Debug\Rebuild.Form2.resources
+C:\Users\fuurk\source\repos\Rebuild\Rebuild\obj\Debug\Rebuild.Form3.resources
